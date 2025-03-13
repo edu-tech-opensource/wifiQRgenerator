@@ -2,20 +2,23 @@
 
 This Python script allows users to generate a QR code for connecting to a WiFi network. The generated QR code can be scanned by any device to automatically connect to the specified WiFi network.
 
+# WiFi QR Code Generator
 
----
+This is a WiFi QR Code generator tool that helps users generate a QR code to connect to a WiFi network.
 
-### **Keywords for Search Engines:**
-- WiFi QR Code
-- QR Code Generator Python
-- Generate WiFi QR Code
-- Python WiFi QR Code Generator
-- Tkinter WiFi QR Code
-- Python Tkinter app
-- WiFi password QR code generator
-- WiFi QR Code Generator for Mac/Windows
 
----
+<img src="images/icon.jpg" alt="WiFi QR Code" width="300" height="300">
+
+
+
+## How It Works
+
+1. Enter your **WiFi SSID** (network name) and **password**.
+2. Click "Generate QR Code."
+3. Save or download the generated QR code.
+
+The image above shows an example of a WiFi QR code that can be scanned to connect to a WiFi network.
+
 
 ## Pre-installation Instructions
 
@@ -93,3 +96,24 @@ After this, PyInstaller will generate a dist folder containing the executable fo
 3. Running the App
 Once you have the executable, you can run it directly by double-clicking the app, or distribute it to others who don’t have Python installed.
 
+---
+
+### **Keywords for Search Engines:**
+- WiFi QR Code
+- QR Code Generator Python
+- Generate WiFi QR Code
+- Python WiFi QR Code Generator
+- Tkinter WiFi QR Code
+- Python Tkinter app
+- WiFi password QR code generator
+- WiFi QR Code Generator for Mac/Windows
+
+---
+
+## Author's Note
+
+This project was created to help users easily generate **WiFi QR codes** using Python. If you find this useful or have any suggestions, feel free to open an issue or contribute!
+
+For any questions, you can reach me at [edutechopensource@yahoo.com](mailto:edutechopensource@yahoo.com)
+
+Happy coding! 🚀
