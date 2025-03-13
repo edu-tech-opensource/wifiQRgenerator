@@ -68,7 +68,7 @@ Clone or download this repository.
 Navigate to the folder where the script is saved in your terminal or command prompt.
 Run the script with the following command:
 ```
-python wifi_qr_code_generator.py
+python qr.py
 ```
 
 The script will open a graphical user interface (GUI) where you can input your WiFi SSID and password to generate the QR code.
@@ -86,7 +86,7 @@ pip install pyinstaller
 2. Create the Executable
 Navigate to the directory containing the script and run:
 ```
-pyinstaller --onefile --windowed wifi_qr_code_generator.py
+pyinstaller --onefile --windowed qr.py
 ```
 
 --onefile bundles everything into a single executable.
